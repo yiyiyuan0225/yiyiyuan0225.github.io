@@ -35,15 +35,15 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: /publications/
+    url: xll0328.github.io/publications/
   - title: Projects
-    url: /projects/
+    url: xll0328.github.io/projects/
   - title: Awards
-    url: /awards/
+    url: xll0328.github.io/awards/
   - title: Hobbies
-    url: /hobbies/
+    url: xll0328.github.io/hobbies/
   - title: Blogs
-    url: /blogs/
+    url: xll0328.github.io/blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
