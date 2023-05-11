@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./1156.jpg" class="floatpic" width="360" height="480">
+<img src="./1156.jpg" class="floatpic" width="360" height="574">
 
 Here is **Songning Lai (赖颂宁)**.
 
