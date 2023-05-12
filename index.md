@@ -18,8 +18,8 @@ In my research, I have explored various fields, including **bioinformatics** (su
 
 ## News and Updates
 
-- $\color{#FF0000}{News}$ : I am actively searching for a PhD program!
-- **Apr 2022 :** Start my research intern at KAUST.
+- **$\color{#FF0000}{News}$ :** I am actively searching for a **PhD** program!
+- **Apr 2022 :** Start my research intern at **KAUST**.
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
 
