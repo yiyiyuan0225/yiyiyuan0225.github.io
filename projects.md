@@ -6,34 +6,24 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/file/P2.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/file/P3.png">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### Mechanism modeling and output power optimization of rocking motion of wave energy device
 
 <center>
-<img src="/images/openiot-system.png">
-</center>
-
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
+<img src="/file/P1sxjm.png">
 </center>
 <br>
 
@@ -41,18 +31,62 @@ P.S., click the hyperlink title to access the source.<br>
 
 ---
 
-# Open-source Projects
+# Other Projects ( Course design, competition, or open source project.)
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+#### MIT Intelligent Car (Electrical Engineering And Computer Science I)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+<center>
+<img src="/file/MITCar.png">
+</center>
+<br>
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
+### YOLOV5, LPRNet neural network and SE5 realize license plate detection
 
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
+<center>
+<img src="/file/YOLO.png">
+</center>
+<br>
 
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
+### Signal modulation system measuring device
 
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+<center>
+<img src="/file/ds.jpg">
+</center>
+<br>
+
+### Oscilloscope based on STM32
+
+<center>
+<img src="/file/sbq.jpg">
+</center>
+<br>
+
+### WiFi smart alarm clock based on ESP8266
+
+<center>
+<img src="/file/nz.jpg">
+</center>
+<br>
+
+### Infrared tracking car based on STM32
+
+<center>
+<img src="/file/xjcar.jpg">
+</center>
+<br>
+
+### Robot arm based on ESP32 (UDP protocol instruction transmission, binocular camera detection to achieve table tennis fetching)
+
+<center>
+<img src="/file/jxb.jpg">
+</center>
+<br>
+
+### NFC field source lamp
+
+<center>
+<img src="/file/NFC.jpg">
+</center>
+<br>
