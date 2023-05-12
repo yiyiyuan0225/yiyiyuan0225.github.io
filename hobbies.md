@@ -9,21 +9,21 @@ title: Hobbies
 ## Badminton
 
 <div style="display:flex;">
-    <img src="/file/hb1.jpg" style="flex:1; margin-right:5px;">
-    <img src="/file/hb11.jpg" style="flex:1; margin-right:5px;">
-    <img src="/file/hb12.jpg" style="flex:1;">
+    <img src="/file/hb1.jpg" style="flex:1; margin-right:5px;" width = 200/>
+    <img src="/file/hb11.jpg" style="flex:1; margin-right:5px;" width = 200/>
+    <img src="/file/hb12.jpg" style="flex:1;" width = 200/>
 </div>
 
 <div class="third">
-<img src="/file/hb1.jpg">
-<img src="/file/hb11.jpg">
-<img src="/file/hb12.jpg">
+<img src="/file/hb1.jpg" width = 200/>
+<img src="/file/hb11.jpg" width = 200/>
+<img src="/file/hb12.jpg" width = 200/>
 </div>
 
 <div class="third">
-<img src="/file/hb13.jpg">
-<img src="/file/hb14.jpg">
-<img src="/file/hb15.jpg">
+<img src="/file/hb13.jpg" width = 200/>
+<img src="/file/hb14.jpg" width = 200/>
+<img src="/file/hb15.jpg" width = 200/>
 </div>
 
 ## Painting
