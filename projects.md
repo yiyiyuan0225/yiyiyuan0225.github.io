@@ -84,7 +84,7 @@ title: Projects
 </center>
 <br>
 
-### Robot arm based on ESP32 (UDP protocol instruction transmission, binocular camera detection to achieve table tennis fetching)
+### Robot arm based on ESP32 (UDP protocol instruction transmission, binocular camera detection to achieve table tennis fetching )
 
 <center>
 <img src="/file/jxb.jpg">
