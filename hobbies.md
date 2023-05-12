@@ -20,6 +20,7 @@ title: Hobbies
     <img src="/file/hb14.jpg" style="flex:1; margin-right:5px;" width = 200/>
     <img src="/file/hb15.jpg" style="flex:1;" width = 200/>
 </div>
+<br>
 
 ## Painting
 
@@ -41,6 +42,7 @@ title: Hobbies
     <img src="/file/hb28.jpg" style="flex:1; margin-right:5px;" width = 200/>
     <img src="/file/hb29.jpg" style="flex:1;" width = 200/>
 </div>
+<br>
 
 ## Roller skating
 
