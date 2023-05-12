@@ -8,7 +8,7 @@ layout: page
 
 &emsp;&emsp;Here is **Songning Lai (赖颂宁)**.
 
-&emsp;&emsp;I am a junior student studying in the School of Information Science and Engineering(**Chongxin College**), Shandong University in China. Here is my [Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+&emsp;&emsp;I am a junior student studying in the School of Information Science and Engineering(**Chongxin College**), Shandong University in China. Here is my Resume (Resume to be completed, please look forward to).
 
 ## Research Interests
 
