@@ -6,15 +6,27 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2nd March 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 2nd May 2023&nbsp.
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI).( Oral & **Best Paper Award**). [Slides](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+## Under Review Paper
+
+- BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [The latest manuscript](file/BERTPLPS.pdf) <br>**Songning Lai**, Yankun Cao, Pengwei Wang1, Lan Ye and Zhi Liu1<br>
+Under review in the journal BMC Bioinformatics(JCR Q2 (IF:3.307), CCF C).
+- Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [The latest manuscript](file/Multimodal.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
+Under review in the journal IEEE Transactions on Affective Computing (JCR Q1(IF:13.99), CCF B).
+-  Multimodal Sentiment Analysis: A Survey. [The latest manuscript](file/MultimodalS.pdf) <br>Songning Lai, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
+Under review in the journal Visual Intelligence.
 
 ## Working Paper
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf) (Competition paper for 2023 MCM Contest)
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with KAUST）.
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with KAUST）.
+- cross—domain unsupervised car detection （This is a collaboration with Haoxuan Xu at Shandong University）.
+
+
+
