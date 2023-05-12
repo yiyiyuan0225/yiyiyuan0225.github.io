@@ -8,4 +8,4 @@ title: Blogs
 
 ### 2023
 
-  I haven't developed the habit of writing blogs yet.  I prefer to take notes on literature and reflect on my own thoughts through handwriting.  Perhaps in the near future, I will share all my experiences here, such as competition guidelines, the path of scientific research, and so on.
+&emsp;&emsp;I haven't developed the habit of writing blogs yet.  I prefer to take notes on literature and reflect on my own thoughts through handwriting.  Perhaps in the near future, I will share all my experiences here, such as competition guidelines, the path of scientific research, and so on.
