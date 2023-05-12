@@ -56,6 +56,13 @@ title: Projects
 </center>
 <br>
 
+### Saturable absorption of 4TIC molecules based on femtosecond
+
+<center>
+<img src="/file/guang.png">
+</center>
+<br>
+
 ### Oscilloscope based on STM32
 
 <center>
