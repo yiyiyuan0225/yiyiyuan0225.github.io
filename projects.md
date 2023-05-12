@@ -23,7 +23,7 @@ title: Projects
 #### Mechanism modeling and output power optimization of rocking motion of wave energy device
 
 <center>
-<img src="/file/P1sxjm.png">
+<img src="/file/p1sxjm.png">
 </center>
 <br>
 
