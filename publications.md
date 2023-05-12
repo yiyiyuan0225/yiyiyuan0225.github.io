@@ -16,16 +16,16 @@ Lastest Update: 2nd May 2023&nbsp.
 ## Under Review Paper
 
 - BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [The latest manuscript](file/BERTPLPS.pdf) <br>**Songning Lai**, Yankun Cao, Pengwei Wang1, Lan Ye and Zhi Liu1<br>
-Under review in the journal BMC Bioinformatics(JCR Q2 (IF:3.307), CCF C).
+Under review in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
 - Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [The latest manuscript](file/Multimodal.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
-Under review in the journal IEEE Transactions on Affective Computing (JCR Q1(IF:13.99), CCF B).
--  Multimodal Sentiment Analysis: A Survey. [The latest manuscript](file/MultimodalS.pdf) <br>Songning Lai, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
+Under review in the journal IEEE Transactions on Affective Computing (**JCR Q1(IF:13.99), CCF B**).
+-  Multimodal Sentiment Analysis: A Survey. [The latest manuscript](file/MultimodalS.pdf) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
 Under review in the journal Visual Intelligence.
 
 ## Working Paper
 
-- Faithful CLIP-based Concept Bottleneck Models（In collaboration with KAUST）.
-- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with KAUST）.
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.
 - cross—domain unsupervised car detection （This is a collaboration with Haoxuan Xu at Shandong University）.
 
 
