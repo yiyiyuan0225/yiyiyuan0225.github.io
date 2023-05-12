@@ -8,6 +8,12 @@ title: Hobbies
 
 ## Badminton
 
+<div style="display:flex;">
+    <img src="/file/hb1.jpg" style="flex:1; margin-right:5px;">
+    <img src="/file/hb11.jpg" style="flex:1; margin-right:5px;">
+    <img src="/file/hb12.jpg" style="flex:1;">
+</div>
+
 <div class="third">
 <img src="/file/hb1.jpg">
 <img src="/file/hb11.jpg">
@@ -20,7 +26,7 @@ title: Hobbies
 <img src="/file/hb15.jpg">
 </div>
 
-## Swimming & Surfing
+## Painting
 
 <div class="third">
 <img src="/images/swimming2.JPG">
