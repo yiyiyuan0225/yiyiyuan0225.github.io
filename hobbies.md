@@ -6,19 +6,19 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Badminton
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/file/hb1.jpg">
+<img src="/file/hb11.jpg">
+<img src="/file/hb12.jpg">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
+<div class="third">
+<img src="/file/hb13.jpg">
+<img src="/file/hb14.jpg">
+<img src="/file/hb15.jpg">
+</div>
 
 ## Swimming & Surfing
 
