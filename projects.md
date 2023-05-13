@@ -27,6 +27,19 @@ title: Projects
 </center>
 <br>
 
+### Resolving Challenges in Camera-Based Vehicle Detection: A Cross-Domain Approach with Convolutional Attention Mechanism and Generalized Intersection-over-Union Loss
+<center>
+<img src="/file/zong.jpg">
+</center>
+<center>
+<img src="/file/cycle.jpg">
+</center>
+<center>
+<img src="/file/Fast.jpg">
+</center>
+<br>
+
+
 <br>
 
 ---
