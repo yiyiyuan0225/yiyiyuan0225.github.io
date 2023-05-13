@@ -11,7 +11,7 @@ Lastest Update: 12th May 2023.
 ## Conference Paper
 
 - [Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
-<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI).( Oral & **Best Paper Award**). [Slides](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (IEEE CISP-BMEI).( Oral & **Best Paper Award**). [Slides](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).
 
 ## Under Review Paper
 
