@@ -32,7 +32,7 @@ title: Projects
 <img src="/file/zong.jpg">
 </center>
 <center>
-<img src="/file/cycle.jpg">
+<img src="/file/Cycle.jpg">
 </center>
 <center>
 <img src="/file/Fast.jpg">
