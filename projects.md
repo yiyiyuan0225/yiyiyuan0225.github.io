@@ -62,7 +62,7 @@ title: Projects
 </center>
 <div style="display:flex;">
     <img src="/file/dxs21.png" style="flex:1; margin-right:5px;" width = 300/>
-    <img src="/file/dxs22.png" style="flex:1;  width = 300/>
+    <img src="/file/dxs22.png" style="flex:1;"  width = 300/>
 </div>
 <br>
 
@@ -73,7 +73,7 @@ title: Projects
 </center>
 <div style="display:flex;">
     <img src="/file/jw21.png" style="flex:1; margin-right:5px;" width = 300/>
-    <img src="/file/jw22.png" style="flex:1;  width = 300/>
+    <img src="/file/jw22.png" style="flex:1;"  width = 300/>
 </div>
 <br>
 
