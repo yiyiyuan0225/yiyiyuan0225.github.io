@@ -48,10 +48,32 @@ title: Projects
 
 <br>
 
-#### MIT Intelligent Car (Electrical Engineering And Computer Science I)
+### MIT Intelligent Car (Electrical Engineering And Computer Science I)
 
 <center>
 <img src="/file/MITCar.png">
+</center>
+<br>
+
+### SPI system based on spinning mask modulation
+
+<center>
+<img src="/file/dxs1.png">
+</center>
+<center>
+    <img src="/file/dxs21.png">
+    <img src="/file/dxs22.png">
+</center>
+<br>
+
+### Methane gas absorption imaging
+
+<center>
+<img src="/file/jw1.png">
+</center>
+<center>
+    <img src="/file/jw21.png">
+    <img src="/file/jw22.png">
 </center>
 <br>
 
