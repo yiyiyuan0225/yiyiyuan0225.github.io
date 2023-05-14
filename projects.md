@@ -60,10 +60,10 @@ title: Projects
 <center>
 <img src="/file/dxs1.png">
 </center>
-<center>
-    <img src="/file/dxs21.png">
-    <img src="/file/dxs22.png">
-</center>
+<div style="display:flex;">
+    <img src="/file/dxs21.png" style="flex:1; margin-right:5px;" width = 300/>
+    <img src="/file/dxs22.png" style="flex:1;  width = 300/>
+</div>
 <br>
 
 ### Methane gas absorption imaging
@@ -71,10 +71,10 @@ title: Projects
 <center>
 <img src="/file/jw1.png">
 </center>
-<center>
-    <img src="/file/jw21.png">
-    <img src="/file/jw22.png">
-</center>
+<div style="display:flex;">
+    <img src="/file/jw21.png" style="flex:1; margin-right:5px;" width = 300/>
+    <img src="/file/jw22.png" style="flex:1;  width = 300/>
+</div>
 <br>
 
 ### YOLOV5, LPRNet neural network and SE5 realize license plate detection
