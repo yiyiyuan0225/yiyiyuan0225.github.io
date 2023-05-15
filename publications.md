@@ -11,7 +11,11 @@ Lastest Update: 12th May 2023.
 ## Conference Paper
 
 - [Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
-<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (IEEE CISP-BMEI).( Oral & **Best Paper Award**). [Slides](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI).( Oral & **Best Paper Award**). [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**EI, IEEE**}
+
+- [Classifying Crime Types using Judgment Documents from Social Media](file/ljq.pdf)
+<br>Haoxuan Xu，Zeyu He, Mengfan Shen，**Songning Lai**，Ziqiang Han，Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [pdf](file/ljq.pdf).--{**EI, IEEE**}
+                                                                                
 
 ## Under Review Paper
 
@@ -25,8 +29,8 @@ Under review in the journal Visual Intelligence.
 
 ## Working Paper
 
-- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for ICLR in a few months!
-- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for AAAI in a few months!
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **ICLR** in a few months!
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **AAAI** in a few months!
 - cross—domain unsupervised car detection （This is a collaboration with Haoxuan Xu at Shandong University）.--The first draft has been completed, ordered and polished, enjoy!
 
 
