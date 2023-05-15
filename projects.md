@@ -8,21 +8,21 @@ title: Projects
 
 <br>
 
-#### BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites
+### BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites
 
 <center>
 <img src="/file/P2.png">
 </center>
 <br>
 
-#### Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning
+### Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning
 
 <center>
 <img src="/file/P3.png">
 </center>
 <br>
 
-#### Mechanism modeling and output power optimization of rocking motion of wave energy device
+### Mechanism modeling and output power optimization of rocking motion of wave energy device
 
 <center>
 <img src="/file/p1sxjm.png">
@@ -41,6 +41,14 @@ title: Projects
 </center>
 <br>
 
+### Classifying Crime Types using Judgment Documents from Social Media
+<center>
+<img src="/file/xhx1.png">
+</center>
+<center>
+<img src="/file/xhx2.png">
+</center>
+<br>
 
 <br>
 
