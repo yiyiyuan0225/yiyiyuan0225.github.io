@@ -14,7 +14,7 @@ Lastest Update: 12th May 2023.
 <br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI).( Oral & **Best Paper Award**). [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**EI, IEEE**}
 
 - [Classifying Crime Types using Judgment Documents from Social Media](file/ljq.pdf)
-<br>Haoxuan Xu，Zeyu He, Mengfan Shen，**Songning Lai**，Ziqiang Han，Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [pdf](file/ljq.pdf).--{**EI, IEEE**}
+<br>Haoxuan Xu, Zeyu He, Mengfan Shen, **Songning Lai**, Ziqiang Han and Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [pdf](file/ljq.pdf).--{**EI, IEEE**}
                                                                                 
 
 ## Under Review Paper
