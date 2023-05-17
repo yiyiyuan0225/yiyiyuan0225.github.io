@@ -1,8 +1,10 @@
 ---
 layout: page
 ---
+<!-- 
+<img src="./1156.jpg" class="floatpic" width="360" height="574"> -->
 
-<!-- <img src="./1156.jpg" class="floatpic" width="360" height="574"> -->
+<img src="./songninglai.png" class="floatpic" width="360" height="574">
 
 # About Me
 
