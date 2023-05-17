@@ -153,6 +153,8 @@ title: Projects
 <center>
 <img src="/file/guang.png">
 </center>
+
+- Saturable absorption properties is key to the performance of the passive mode-locking component in a laser cavity to generate ultrashort laser pulses. Searching the non-linear optical (NLO) materials having saturable absorption properties with low saturation intensity has attracted increasing attention. The 4TIC molecule shows a strong absorption in the visible and even near-infrared regions with good stability and excellent non-linear optical properties. In this work, its strong saturable absorption properties were investigated by an open-aperture Z-scan technique using femtosecond laser firing at 800nm with the pulse width of around 50 fs. The saturable intensity of 4TIC molecule films was measured to be about 3.11 GW/cm2 . The results suggest 4TIC is a potential saturable absorber and would be studied in the future in detail.
 <br>
 
 ### Oscilloscope based on STM32
@@ -160,6 +162,11 @@ title: Projects
 <center>
 <img src="/file/sbq.jpg">
 </center>
+
+- Implemented a wideband amplifier using NE5532, with a voltage gain that can be greater than 40dB and adjustable between 10-40dB.
+- The 3dB bandwidth and 1dB bandwidth have been measured and meet the usage requirements.
+- The input resistance is 45.81Ω, and the output resistance is 30Ω, which is close to the requirements specified in the task.
+- Implemented signal waveform display and measurement, as well as real-time output of 1/2 amplitude value, using STM32 microcontroller.
 <br>
 
 ### WiFi smart alarm clock based on ESP8266
