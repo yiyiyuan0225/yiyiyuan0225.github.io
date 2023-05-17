@@ -82,8 +82,7 @@ title: Projects
 
 ---
 
-# Other Projects ( Course design, competition, or open source project.)
-
+# Other Projects
 <br>
 
 ### MIT Intelligent Car (Electrical Engineering And Computer Science I)
@@ -142,6 +141,11 @@ title: Projects
 <center>
 <img src="/file/ds.jpg">
 </center>
+
+- Achieved high-precision demodulation function through process control amplifier and envelope detection module.
+- Realized high-precision frequency detection function through a phase-locked loop frequency discriminator.
+- Used three STM32F103 microcontrollers to implement three channels of high-speed AD sampling.
+- Implemented the calculation and display of amplitude modulation, frequency modulation, and maximum frequency deviation using STM32 microcontroller and TFTLCD display screen. The calculated results were measured to be lower than the requirements specified in the task.
 <br>
 
 ### Saturable absorption of 4TIC molecules based on femtosecond
