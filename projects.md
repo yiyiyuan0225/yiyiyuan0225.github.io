@@ -49,7 +49,7 @@ title: Projects
 - Participated in constructing the models, coding, and writing the paper, including explaining the methods, illustrating the paper with figures, and visualizing the results.
 <br>
 
-### Resolving Challenges in Camera-Based Vehicle Detection: A Cross-Domain Approach with Convolutional Attention Mechanism and Generalized Intersection-over-Union Loss
+### Detection: A Cross-Domain Approach with Convolutional Attention Mechanism and Generalized Intersection-over-Union Loss
 <center>
 <img src="/file/zong.jpg">
 </center>
@@ -60,11 +60,10 @@ title: Projects
 <img src="/file/Fast.jpg">
 </center>
 
-- Constructed a complete cross-domain object detection framework.
-- Developed an object domain image generation module that integrates convolutional attention mechanisms.
-- Used generalized intersection-over-union as the loss function for the object detection framework.
-- Designed an object detection model that integrates CBAM.
-- Employed effective data augmentation methods and conducted extensive experiments to validate the effectiveness of our model.
+- We develop a comprehensive framework for cross-domain target detection. By fine-tuning the target detector using the image generator in the target domain based on source domain training, we achieve high-accuracy cross-domain target detection in the absence of the target domain, improving mAP by 18.55$\%$ over original target detection results.
+- We create an improved CycleGAN-based image generator that learns the primary features of blackout vehicles through a target domain image generation module with an integrated convolutional attention mechanism.
+- We enhance the overall detection performance of the Faster R-CNN model by using generalized cross union as the loss function of the target detection framework, combined with the Convolutional Block Attention Module.
+- We employ an effective data augmentation method to expand the dataset effectively, even with a limited training set.
 <br>
 
 ### Classifying Crime Types using Judgment Documents from Social Media
