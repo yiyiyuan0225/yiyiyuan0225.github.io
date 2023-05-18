@@ -30,11 +30,8 @@ title: Projects
 </center>
 
 - We propose a function based on the covariance matrix as a second-order statistic to measure the distribution of features between aligned and drawn-out modes.
-
 - We design a differentiable loss function to train the network to learn shared information between modalities.
-
 - We use a self-supervised learning strategy generation module to guide the multimodal task to focus on modality-specific private information.
-
 - We conduct comprehensive experiments on three benchmark datasets for multimodal sentiment analysis to validate the feasibility of our designed module. Our approach outperforms the current state-of-the-art methods.
 <br>
 
@@ -60,7 +57,7 @@ title: Projects
 <img src="/file/Fast.jpg">
 </center>
 
-- We develop a comprehensive framework for cross-domain target detection. By fine-tuning the target detector using the image generator in the target domain based on source domain training, we achieve high-accuracy cross-domain target detection in the absence of the target domain, improving mAP by 18.55$\%$ over original target detection results.
+- We develop a comprehensive framework for cross-domain target detection. By fine-tuning the target detector using the image generator in the target domain based on source domain training, we achieve high-accuracy cross-domain target detection in the absence of the target domain, improving mAP by 18.55% over original target detection results.
 - We create an improved CycleGAN-based image generator that learns the primary features of blackout vehicles through a target domain image generation module with an integrated convolutional attention mechanism.
 - We enhance the overall detection performance of the Faster R-CNN model by using generalized cross union as the loss function of the target detection framework, combined with the Convolutional Block Attention Module.
 - We employ an effective data augmentation method to expand the dataset effectively, even with a limited training set.
