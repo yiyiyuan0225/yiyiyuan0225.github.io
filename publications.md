@@ -20,7 +20,7 @@ Lastest Update: 12th May 2023.
 ## Under Review Paper
 
 - BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [The latest manuscript](https://assets.researchsquare.com/files/rs-2858313/v1_covered_07d0e57c-bbc3-4bca-9e12-eb9ff6192f04.pdf?c=1683001221
-) <br>**Songning Lai**, Yankun Cao, Pengwei Wang1, Lan Ye and Zhi Liu1<br>
+) <br>**Songning Lai**, Yankun Cao, Pengwei Wang, Lan Ye and Zhi Liu<br>
 Under review in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
 - Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [The latest manuscript](file/Multimodal.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
 Under review in the journal IEEE Transactions on Affective Computing (**JCR Q1(IF:13.99), CCF B**).
