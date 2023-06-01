@@ -10,8 +10,8 @@ Lastest Update: 12th May 2023.
 
 ## Conference Paper
 
-- [Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
-<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI).( Oral & **Best Paper Award**). [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex**}
+- (Oral & **Best Paper Award**)[Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex**}
 
 - [Classifying Crime Types using Judgment Documents from Social Media](file/ljq.pdf)
 <br>Haoxuan Xu, Zeyu He, Mengfan Shen, **Songning Lai**, Ziqiang Han and Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [pdf](file/ljq.pdf).--{**IEEE Xplore丨EI Compendex**}
@@ -27,6 +27,8 @@ Under review in the journal IEEE Transactions on Affective Computing (**JCR Q1(I
 - Multimodal Sentiment Analysis: A Survey. [The latest manuscript](file/MultimodalS.pdf) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
 Under review in the journal Visual Intelligence.
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
+- Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism. [The latest manuscript](file/MultimodalS.pdf) <br>**Songning Lai**, Haoxuan Xu and Yang Yang<br>
+Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 ## Working Paper
 
