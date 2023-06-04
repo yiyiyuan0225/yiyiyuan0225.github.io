@@ -34,7 +34,6 @@ Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 - Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **ICLR** in a few months!
 - Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **AAAI** in a few months!
-- cross—domain unsupervised car detection （This is a collaboration with Haoxuan Xu at Shandong University）.--The first draft has been completed, ordered and polished, enjoy!
 
 
 
