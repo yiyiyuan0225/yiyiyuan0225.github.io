@@ -32,8 +32,8 @@ Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 ## Working Paper
 
-- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **ICLR** in a few months!
-- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **AAAI** in a few months!
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **ICLR 2024** in a few months!
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **AAAI 2024** in a few months!
 
 
 
