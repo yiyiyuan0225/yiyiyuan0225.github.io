@@ -10,7 +10,7 @@ layout: page
 
 Here is **Songning Lai (赖颂宁)**.
 
-I am a junior student studying in the School of Information Science and Engineering(**Chongxin Xuetang**), **Shandong University** in China. Here is my Resume (Resume to be completed, please look forward to).
+I am a junior student studying in the School of Information Science and Engineering(**Chongxin Xuetang**), [**Shandong University**](https://www.sdu.edu.cn/) in China. Here is my Resume.
 
 ## Research Interests
 
