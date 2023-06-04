@@ -10,7 +10,7 @@ layout: page
 
 Here is **Songning Lai (赖颂宁)**.
 
-I am a junior student studying in the School of Information Science and Engineering(**Chongxin Xuetang**), [**Shandong University**](https://www.sdu.edu.cn/) in China. Here is my Resume.
+I am a junior student studying in the School of Information Science and Engineering([**Chongxin Xuetang**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin), [**Shandong University**](https://www.sdu.edu.cn/) in China. Here is my [Resume](/file/个人简历_赖颂宁.pdf).
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ In my research, I have explored various fields, including **bioinformatics** (su
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am actively searching for a PhD program!**
+- **<font color='red'>[News]</font> I am actively searching for a PhD program! I am in urgent need of an offer for 24fall PHD！**
 - **Apr 2023 :** Start my research intern at **KAUST**.
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
