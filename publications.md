@@ -27,7 +27,7 @@ Under review in the journal IEEE Transactions on Affective Computing (**JCR Q1(I
 - Multimodal Sentiment Analysis: A Survey. [[pdf]](https://arxiv.org/pdf/2305.07611.pdf) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
 Under review in the journal Visual Intelligence.
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
-- Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism. [[pdf]]([file/MultimodalS.pdf](https://arxiv.org/pdf/2305.20055.pdf)) <br>Haoxuan Xu*, **Songning Lai*** and Yang Yang<br>
+- Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism. [[pdf]]([file/MultimodalS.pdf](https://arxiv.org/pdf/2305.20055.pdf)) <br>Haoxuan Xu*, **Songning Lai(co-first author)** and Yang Yang<br>
 Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 ## Working Paper
