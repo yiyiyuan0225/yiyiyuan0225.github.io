@@ -10,7 +10,7 @@ layout: page
 
 Here is **Songning Lai (赖颂宁)**.
 
-I am a junior student studying in the School of Information Science and Engineering([**Chongxin Xuetang**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China. Here is my [**Resume**](/file/CV_SongningLai_.pdf).
+I am a junior student studying in the School of Information Science and Engineering([**Chongxin Xuetang**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China. Here is my [**Resume**](/file/CV_laisongning.pdf).
 
 ## Research Interests
 
