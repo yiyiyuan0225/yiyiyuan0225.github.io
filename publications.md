@@ -36,13 +36,15 @@ Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 - Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **ICLR 2024** in a few months!
 
 
+
+
 #  RESEARCH EXPERIENCES
 
 ## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
 
 2023.4 --- Present
 
-Research Intern, Advisor:[Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
+Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
 
 - Faithful CLIP-based Concept Bottleneck Models(In collaboration with KAUST).–Work hard for **AAAI 2024** in a few months!
 - Towards Consistent Multimodal Explanation via Data Influence (In collaboration with KAUST).–Work hard for **ICLR 2024** in a few months!
@@ -51,7 +53,7 @@ Research Intern, Advisor:[Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/pe
 
 2022.8 --- Present
 
-Research Intern, Advisor:[Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
+Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
 
 - Bioinformatics: Involving knowledge in the field of single-cell transcriptomics and spatial transcriptomics. Learn and complete the basic single-cell transcript data analysis process, such as quality control, dimensionality reduction (PCA), clustering and visualization (TSNE, UMAP), cell annotation, functional enrichment analysis, and pseudotime analysis. Protein post-translational modification - lysine phosphorylation and glycosylation site prediction task.
 - Scientific research achievement: IEEE CISP-BMEI 2023 Best Paper Award; a journal under review in the journal BMC Bioinformatics(JCR Q2); an invention patent is under examination.
@@ -61,7 +63,7 @@ Research Intern, Advisor:[Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/inde
 
 2023.3 --- 2023.6
 
-Research Intern, Advisor:[Prof. Yang Yang](https://faculty.sdu.edu.cn/yangyang/zh_CN/index/11881/list/index.htm) ---Shandong University
+Research Intern, Advisor: [Prof. Yang Yang](https://faculty.sdu.edu.cn/yangyang/zh_CN/index/11881/list/index.htm) ---Shandong University
 
 - Vehicle detection: A comprehensive framework for cross-domain target detection is developed. By fine-tuning the target detector using the image generator in the target domain based on source domain training, high-accuracy cross-domain target detection is achieved in the absence of the target domain, improving mAP by 18.55% over original target detection results.
 - Scientific research achievement: A journal under review in the journal Image and Vision Computing(JCR Q1).
@@ -70,7 +72,7 @@ Research Intern, Advisor:[Prof. Yang Yang](https://faculty.sdu.edu.cn/yangyang/z
 
 2022.10 --- 2023.2
 
-Research Intern, Advisor:[Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---McMaster University, Canada
+Research Intern, Advisor: [Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---McMaster University, Canada
 
 - Mainly working on domain generalization, trying to use all domain generalization algorithms (about 10) to explore graphic perception problems (such as graphic concavity and convexity, and graphic quantity).invention patent is under examination.
 
@@ -78,7 +80,7 @@ Research Intern, Advisor:[Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/z
 
 2022.1 --- 2022.8
 
-Research Intern, Advisor:[Prof. Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/) ---Shandong University
+Research Intern, Advisor: [Prof. Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/) ---Shandong University
 
 - Mainly working on machine vision and robotic arm control, helping graduate students complete their projects: binocular camera recognition, robotic arm grabbing ping pong balls, AGV intelligent cars, etc.
 
