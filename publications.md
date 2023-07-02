@@ -25,15 +25,15 @@ Under review in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
 - Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [[pdf]](https://arxiv.org/pdf/2305.08473.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
 Under review in the journal IEEE Transactions on Affective Computing (**JCR Q1(IF:13.99), CCF B**).
 - Multimodal Sentiment Analysis: A Survey. [[pdf]](https://arxiv.org/pdf/2305.07611.pdf) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
-Under review in the journal Visual Intelligence.
+Under review in the journal Displays(**JCR Q2(IF:4.3)**).
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
 - Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism. [[pdf]]([file/MultimodalS.pdf](https://arxiv.org/pdf/2305.20055.pdf)) <br>Haoxuan Xu*, **Songning Lai(co-first author)** and Yang Yang<br>
 Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 ## Working Paper
 
-- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **ICLR 2024** in a few months!
-- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **AAAI 2024** in a few months!
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **AAAI 2024** in a few months!
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **ICLR 2024** in a few months!
 
 
 
