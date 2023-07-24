@@ -6,12 +6,12 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2th June 2023.
+Lastest Update: 2th July 2023.
 
 ## Conference Paper
 
 - (Oral & **Best Paper Award**)[Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
-<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex**}
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex丨Tsinghua B**}
 
 - [Classifying Crime Types using Judgment Documents from Social Media](file/ljq.pdf)
 <br>Haoxuan Xu, Zeyu He, Mengfan Shen, **Songning Lai**, Ziqiang Han and Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [[pdf]](file/ljq.pdf).--{**IEEE Xplore丨EI Compendex**}
@@ -32,8 +32,8 @@ Under review in the journal Image and Vision Computing (**JCR Q1(IF:3.86)**).
 
 ## Working Paper
 
-- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **AAAI 2024** in a few months!
-- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **ICLR 2024** in a few months!
+- Faithful CLIP-based Concept Bottleneck Models（In collaboration with **KAUST**）.--Work hard for **AAAI 2024** in a few days!
+- Towards Consistent Multimodal Explanation via Data Influence （In collaboration with **KAUST**）.--Work hard for **CVPR 2024** in a few months!
 
 
 
