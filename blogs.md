@@ -6,6 +6,13 @@ title: Blogs
 
 ## <a href="{{ site.url }}/feed.xml">My Blogs</a>
 
+### 2023.07.23
+2023target-->AAAI2024+CVPR2024+Nature子刊
+
+### 2023.07.22
+
+All in 沙子国成功！
+
 ### 2023.06.12
 
 雅思真的很烦躁，这听力是人听的？
