@@ -8,6 +8,7 @@ layout: page
 
 
 <img src="./images/tou.jpg" class="floatpic" width="360" height="574">
+
 # About Me
 
 Here is **Songning Lai (赖颂宁)**.
