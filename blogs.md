@@ -6,6 +6,12 @@ title: Blogs
 
 ## <a href="{{ site.url }}/feed.xml">My Blogs</a>
 
+### 2023.09.01
+真的很想摆烂谁懂啊
+
+### 2023.08.30
+2023target-->ICLR2024+CVPR2024+Nature子刊
+
 ### 2023.07.23
 2023target-->AAAI2024+CVPR2024+Nature子刊
 
