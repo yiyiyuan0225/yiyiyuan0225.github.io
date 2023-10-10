@@ -25,7 +25,7 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 **Please feel free to email me to discuss potential research collaborations.(sonly@mail.sdu.edu.cn)**
 
-## News and Updates
+## News and Update
 
 
 - **Apr 2023 :** Start my research intern at **KAUST**.
