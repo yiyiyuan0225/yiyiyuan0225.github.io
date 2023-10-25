@@ -82,83 +82,83 @@ title: Hobbies & pre-slides
 # Slides
 
 <div>
-<img src="in1.jpg">
+<img src="/file/in1.jpg">
 </div>
 
 <div>
-<img src="in2.jpg">
+<img src="/file/in2.jpg">
 </div>
 
 <div>
-<img src="in3.jpg">
+<img src="/file/in3.jpg">
 </div>
 
 <div>
-<img src="in4.jpg">
+<img src="/file/in4.jpg">
 </div>
 <div>
-<img src="in5.jpg">
-</div>
-
-<div>
-<img src="in6.jpg">
+<img src="/file/in5.jpg">
 </div>
 
 <div>
-<img src="in7.jpg">
+<img src="/file/in6.jpg">
 </div>
 
 <div>
-<img src="in8.jpg">
+<img src="/file/in7.jpg">
 </div>
 
 <div>
-<img src="in9.jpg">
+<img src="/file/in8.jpg">
 </div>
 
 <div>
-<img src="in10.jpg">
+<img src="/file/in9.jpg">
 </div>
 
 <div>
-<img src="in11.jpg">
+<img src="/file/in10.jpg">
 </div>
 
 <div>
-<img src="in12.jpg">
+<img src="/file/in11.jpg">
+</div>
+
+<div>
+<img src="/file/in12.jpg">
 </div>
 
 
 <div>
-<img src="in13.jpg">
+<img src="/file/in13.jpg">
 </div>
 <div>
-<img src="in14.jpg">
-</div>
-
-<div>
-<img src="in15.jpg">
-</div>
-<div>
-<img src="in16.jpg">
+<img src="/file/in14.jpg">
 </div>
 
 <div>
-<img src="in17.jpg">
+<img src="/file/in15.jpg">
+</div>
+<div>
+<img src="/file/in16.jpg">
 </div>
 
 <div>
-<img src="in18.jpg">
+<img src="/file/in17.jpg">
 </div>
 
 <div>
-<img src="in19.jpg">
+<img src="/file/in18.jpg">
 </div>
 
 <div>
-<img src="in20.jpg">
+<img src="/file/in19.jpg">
 </div>
 
 <div>
-<img src="in21.jpg">
+<img src="/file/in20.jpg">
+</div>
+
+<div>
+<img src="/file/in21.jpg">
 </div>
