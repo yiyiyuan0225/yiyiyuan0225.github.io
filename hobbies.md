@@ -77,3 +77,88 @@ title: Hobbies & pre-slides
 </div>
 
 - Benedict Timothy Carlton Cumberbatch is my favorite idol (no doubt about it). Whether it's "Sherlock" or "Doctor Strange," this "smart" man has deeply fascinated me.
+
+
+# Slides
+
+<div>
+<img src="in1.jpg">
+</div>
+
+<div>
+<img src="in2.jpg">
+</div>
+
+<div>
+<img src="in3.jpg">
+</div>
+
+<div>
+<img src="in4.jpg">
+</div>
+<div>
+<img src="in5.jpg">
+</div>
+
+<div>
+<img src="in6.jpg">
+</div>
+
+<div>
+<img src="in7.jpg">
+</div>
+
+<div>
+<img src="in8.jpg">
+</div>
+
+<div>
+<img src="in9.jpg">
+</div>
+
+<div>
+<img src="in10.jpg">
+</div>
+
+<div>
+<img src="in11.jpg">
+</div>
+
+<div>
+<img src="in12.jpg">
+</div>
+
+
+<div>
+<img src="in13.jpg">
+</div>
+<div>
+<img src="in14.jpg">
+</div>
+
+<div>
+<img src="in15.jpg">
+</div>
+<div>
+<img src="in16.jpg">
+</div>
+
+<div>
+<img src="in17.jpg">
+</div>
+
+<div>
+<img src="in18.jpg">
+</div>
+
+<div>
+<img src="in19.jpg">
+</div>
+
+<div>
+<img src="in20.jpg">
+</div>
+
+<div>
+<img src="in21.jpg">
+</div>
