@@ -27,7 +27,8 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 ## News and Update
 
-
+- **Oct 2023 :** A work was accepted by the journal Displays (JCR Q1).
+- **Oct 2023 :** A work was accepted by the journal Image and Vison Computing (JCR Q1).
 - **Apr 2023 :** Start my research intern at **KAUST**.
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
