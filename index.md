@@ -11,7 +11,7 @@ layout: page
 
 # About Me
 
-Here is **Songning Lai (赖颂宁)**.
+Here is **Songning Lai (赖颂宁)**.( You can call me Sony. )
 
 I am a junior student studying in the School of Information Science and Engineering([**Chongxin College**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China,supervised by Prof. [**Zhi Liu**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm). 
 
