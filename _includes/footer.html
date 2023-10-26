@@ -6,7 +6,7 @@
 
   <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script> -->
 
-<script>
+<!-- <script>
 window.tip_chato_color="#0000FF";
 window.tip_chato_bg="";
 window.chato_iframe_src = "https://chato.cn/b/p8eldrk8eeyrnky0?source=Chato_share_web";
@@ -15,7 +15,45 @@ var st = document.createElement("script");
 st.type="text/javascript";
 st.async = true;st.src = "https://chato.cn/assets/iframe.min.js";
 var header = document.getElementsByTagName("head")[0];
-header.appendChild(st);</script>
+header.appendChild(st);</script> -->
+
+
+<script>
+window.tip_chato_color="#0000FF";
+window.tip_chato_bg="";
+window.chato_iframe_src = "https://chato.cn/b/p8eldrk8eeyrnky0?source=Chato_share_web";
+window.chato_script_checkDomain = "https://api.chato.cn/chato/api/v1/domains/l3evn7vyv1q7xopq/whitelist_sites/check";
+var st = document.createElement("script");
+st.type="text/javascript";
+st.async = true;
+st.src = "https://chato.cn/assets/iframe.min.js";
+var header = document.getElementsByTagName("head")[0];
+header.appendChild(st);
+
+  // 定期弹出聊天窗口
+function showChatWindow() {
+  // 在此处添加显示聊天窗口的代码
+
+  // 检查浏览器是否支持通知
+  if ("Notification" in window && Notification.permission === "granted") {
+    // 如果支持且已经授权，则创建通知
+    var notification = new Notification("有新消息", {
+      body: "点击查看聊天窗口",
+      icon: "path/to/notification-icon.png" // 替换为您的通知图标路径
+    });
+
+    // 点击通知时触发的操作
+    notification.onclick = function() {
+      // 在此处添加打开聊天窗口的代码
+    };
+  }
+}
+// 设置定时器，每隔一段时间执行一次 showChatWindow 函数
+var intervalId = setInterval(showChatWindow, 3000); // 每3秒执行一次
+  
+</script>
+
+  
 
 <!--   <script>
   window.ChatoBotConfig = {
