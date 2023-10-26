@@ -33,3 +33,9 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
 
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?sony0328"
+border="0" alt="Web Site Hit Counters"></a>
+<br><a href="https://www.easycounter.com/">Hit Counters</a>
+
+
