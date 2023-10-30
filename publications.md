@@ -22,7 +22,7 @@ Lastest Update: 25th Oct 2023.
 **Accepted** in the journal Displays(**JCR Q1(IF:4.3)**).
 
 - Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu*, **Songning Lai(co-first author)** and Yang Yang<br>
-**Accepted** in the journal Image and Vision Computing (**JCR Q1(IF:4.7)**).
+**Accepted** in the journal Image and Vision Computing (**JCR Q1(IF:4.7) CCF C**).
 
   
 
@@ -32,7 +32,7 @@ Lastest Update: 25th Oct 2023.
 
 - BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [[pdf]](https://assets.researchsquare.com/files/rs-2858313/v1_covered_07d0e57c-bbc3-4bca-9e12-eb9ff6192f04.pdf?c=1683001221
 ) <br>**Songning Lai**, Yankun Cao, Pengwei Wang, Lan Ye and Zhi Liu<br>
-Under review in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
+Major revison in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
 - Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [[pdf]](https://arxiv.org/pdf/2305.08473.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
 Under review in COLING2024 (**CCF B**).
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
