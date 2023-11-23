@@ -9,7 +9,7 @@ title: Blogs
 
 工作博客
 - [2023.11.20/21](https://xll0328.github.io/blogs/2023.11.20,21)<br>
-- [2023.11.22/23](https://xll0328.github.io/blogs/2023.11.21,22)<br>
+- [2023.11.22/23](https://xll0328.github.io/blogs/2023.11.22,23)<br>
 
 ### 2023.11.01
 我想躺平
