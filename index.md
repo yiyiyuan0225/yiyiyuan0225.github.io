@@ -32,10 +32,10 @@ Please feel free to email me to discuss potential research collaborations.(**106
 
 | Title | Time |
 |---------|---------|
-| [<u>Classification Model of Glass Artuifacts Based on Elemental Weathering Rules</u>](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
-| [<u>Using Variable Coefficient Model to Estimated Sailing Price</u>](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
-| [<u>A study on Wordle-based Analysis</u>](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
-| [<u>Site Selection Problem Based on Greedy Algorithm</u>](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
+| [<u>**1. Classification Model of Glass Artuifacts Based on Elemental Weathering Rules**</u>](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
+| [<u>**2. Using Variable Coefficient Model to Estimated Sailing Price**</u>](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
+| [<u>**3. A study on Wordle-based Analysis**</u>](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
+| [<u>**4. Site Selection Problem Based on Greedy Algorithm**</u>](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
 
 You can go to the presentation page of each of my projects by **clicking** on the title.
 
