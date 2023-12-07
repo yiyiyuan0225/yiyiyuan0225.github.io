@@ -1,38 +1,33 @@
 ---
 layout: page
 ---
-<!-- 
-<img src="./1156.jpg" class="floatpic" width="360" height="574"> -->
-<!-- 
-<img src="./songninglai.png" class="floatpic" width="360" height="574"> -->
 
 
 <img src="./zzz.jpg" class="floatpic" width="345" height="450">
 
 # About Me
 
-Here is **Songning Lai (赖颂宁)**.( You can call me Sony. )
+My name is **Zou Zhiyuan**, but you can call me **Yiyi**. 
 
-I am a junior student studying in the School of Information Science and Engineering([**Chongxin College**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China,supervised by Prof. [**Zhi Liu**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm). I will join the Provable Responsible AI and Data Analytics ([**PRADA**](http://www.pradalab.org/)) Lab at the King Abdullah University of Science and Technology ([**KAUST**](https://www.kaust.edu.sa/)), advised by [Prof. **Di Wang**](https://shao3wangdi.github.io/), as a **MS/PhD** in **24fall**.
-
-<!-- I will join [**KAUST**](https://www.kaust.edu.sa/) in 2024fall to begin my phd career,and am very fortunate to be advised by Prof. [**Di Wang**](https://shao3wangdi.github.io/) in [**PRADA Lab**](http://www.pradalab.org/) (Provable Responsible AI and Data Analytics Lab).-->
+I am a senior student majoring in Mathematics and Applied Mathematics at [**Beijing Normal University**](https://www.bnu.edu.cn/), under the tutelage of Professor **Liu Yongping**. I plan to go to the **United States** in 2024 for further graduate studies and intend to stay and develop my career there, dedicating myself to research in top-tier fields and contributing my knowledge and skills.
 
 ## Research Interests
 
-My research interests are Explainable AI (XAI) and Privacy-preserving AI. Specifically, my research goal is to build faithful XAI systems which are easily understood by users and are robust in various environments (e.g. XAI4LLM, XAI4NLP, XAI4MM, XAI4CV, XAI4Security and so on). I am also interested in applying the XAI to real-world scenarios (e.g. optical systems, recommender systems, and traffic forecasting etc.).
+My research interests lie in the fields of **optimization processing** and **machine learning**. Specifically, I am dedicated to using mathematical knowledge to enhance the underlying logic and computational efficiency of machine learning models, particularly in matrix operations and algorithm optimization. I aspire to design a more efficient machine learning core code framework in my future research, becoming an outstanding talent proficient in both mathematics and programming across interdisciplinary fields. 
 
-Prior to this, I have also been exposed to bioinformatics, multimodal sentiment analysis, domain generalization and other research areas.
+Prior to this, I have also delved into research areas such as statistics, quantitative finance, and operations research.
 
-**Please feel free to email me to discuss potential research collaborations.(sonly@mail.sdu.edu.cn)**
+Please feel free to email me to discuss potential research collaborations.(**1060981504@qq.com**)
 
 ## News and Update
 
-- **NoV 2023 :** I have received the official admission offer from KAUST by email！
-- **Oct 2023 :** A work was accepted by the journal Displays (JCR Q1).
-- **Oct 2023 :** A work was accepted by the journal Image and Vison Computing (JCR Q1).
-- **Apr 2023 :** Start my research intern at **KAUST**.
-- **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
-- **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
+- **October 2023 :** Awarded the second-class Jing Shi Scholarship.
+- **May 2023 - August 2023 :** Interned at the CIM Department of Xiamen Tianma Microelectronics Co., Ltd.
+- **December 2022 - March 2023 :** Interned in the Investment Department at Shenzhen Hongjun Capital Management Co., Ltd.
+- **October 2022 :** Won the first prize in the National Contemporary Undergraduate Mathematical Contest in Modeling.
+- **August 2022 - November 2022 :** Interned in the Retail Research Department at Nielsen Market Research, Shanghai.
+- **September 2020 :** Enrolled in Beijing Normal University, the top-ranked normal university in China.
+
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"
