@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="./zhiyuan.jpg" class="floatpic" width="345" height="450">
+<img src="./zhiyuan.jpg" class="floatpic" width="806" height="530">
 
 # About Me
 
@@ -32,10 +32,10 @@ Please feel free to email me to discuss potential research collaborations.(**106
 
 | Title | Time |
 |---------|---------|
-| [Classification Model of Glass Artuifacts Based on Elemental Weathering Rules](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
-| [Using Variable Coefficient Model to Estimated Sailing Price](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
-| [A study on Wordle-based Analysis](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
-| [Site Selection Problem Based on Greedy Algorithm](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
+| [<u>Classification Model of Glass Artuifacts Based on Elemental Weathering Rules</u>](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
+| [<u>Using Variable Coefficient Model to Estimated Sailing Price</u>](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
+| [<u>A study on Wordle-based Analysis</u>](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
+| [<u>Site Selection Problem Based on Greedy Algorithm</u>](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
 
 You can go to the presentation page of each of my projects by **clicking** on the title.
 
