@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="./zzz.jpg" class="floatpic" width="345" height="450">
+<img src="./zhiyuan.jpg" class="floatpic" width="345" height="450">
 
 # About Me
 
