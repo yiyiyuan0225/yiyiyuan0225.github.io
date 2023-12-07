@@ -30,7 +30,8 @@ Please feel free to email me to discuss potential research collaborations.(**106
 
 ## Category: Math Modeling
 
-
+| Title | Time |
+|---------|---------|
 | [Classification Model of Glass Artuifacts Based on Elemental Weathering Rules](https://xll0328.github.io/blogs/m1) | September 18,2022 |
 | [Using Variable Coefficient Model to Estimated Sailing Price](https://xll0328.github.io/blogs/m2) | April 3,2023 |
 | [A study on Wordle-based Analysis](https://xll0328.github.io/blogs/m3) | February 21, 2022 |
