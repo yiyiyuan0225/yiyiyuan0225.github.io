@@ -28,6 +28,23 @@ Please feel free to email me to discuss potential research collaborations.(**106
 - **August 2022 - November 2022 :** Interned in the Retail Research Department at Nielsen Market Research, Shanghai.
 - **September 2020 :** Enrolled in Beijing Normal University, the top-ranked normal university in China.
 
+## Category: Math Modeling
+
+
+| [Classification Model of Glass Artuifacts Based on Elemental Weathering Rules](https://xll0328.github.io/blogs/m1) | September 18,2022 |
+| [Using Variable Coefficient Model to Estimated Sailing Price](https://xll0328.github.io/blogs/m2) | April 3,2023 |
+| [A study on Wordle-based Analysis](https://xll0328.github.io/blogs/m3) | February 21, 2022 |
+| [Site Selection Problem Based on Greedy Algorithm](https://xll0328.github.io/blogs/m4) | June 6, 2022 |
+
+## Awards & Honors
+
+- First Prize in the National Mathematical Modeling Contest: September 9, 2022 - September 12, 2022.
+- First Prize in the East Money Cup: May 30, 2022 - June 24, 2022.
+- Third Prize in the MathorCup Mathematical Modeling Contest: April 14, 2022 - April 18, 2022.
+- Outstanding Student in the Summer Java Course at the University of Texas at Austin: January 5, 2023 - January 20, 2023.
+- Third Prize in the Greater Bay Area Financial Mathematics Modeling Contest: November 1, 2022 - April 18, 2022.
+- Second-Class Jing Shi Scholarship for the Junior Year: 2023.
+- Third-Class Jing Shi Scholarship for the Sophomore Year: 2022.
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"
