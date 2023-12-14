@@ -85,4 +85,7 @@ title: CV
 - Tools and languages: Python, C, Matlab, R, LATEX, MySQL, Java
 - Deep learning research: Mathematical Modeling, Mathematical Derivation, Python
 
+You could <span style="color: red;">[**download**](/file/Resume-Zhiyuan Zou.pdf)</span> this CV.
+<iframe src="/file/Resume-Zhiyuan Zou.pdf" width="100%" height="600px"></iframe>
+
 Lastest Update: 14th Dec 2023.
