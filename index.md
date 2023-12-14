@@ -11,6 +11,17 @@ My name is **Zou Zhiyuan**, but you can call me **Yiyi**.
 
 I am a senior student majoring in Mathematics and Applied Mathematics at [**Beijing Normal University**](https://www.bnu.edu.cn/), under the tutelage of Professor **Liu Yongping**. I plan to go to the **United States** in 2024 for further graduate studies and intend to stay and develop my career there, dedicating myself to research in top-tier fields and contributing my knowledge and skills.
 
+## Category: Math Modeling
+
+| Title | Time |
+|---------|---------|
+| [<u>1. Classification Model of Glass Artifacts Based on Elemental Weathering Rules</u>](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
+| [<u>2. Using Variable Coefficient Model to Estimated Sailing Price</u>](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
+| [<u>3. A study on Wordle-based Analysis</u>](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
+| [<u>4. Site Selection Problem Based on Greedy Algorithm</u>](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
+
+You can go to the presentation page of each of my projects by **clicking** on the title.
+
 ## Research Interests
 
 My research interests lie in the fields of **optimization processing** and **machine learning**. Specifically, I am dedicated to using mathematical knowledge to enhance the underlying logic and computational efficiency of machine learning models, particularly in matrix operations and algorithm optimization. I aspire to design a more efficient machine learning core code framework in my future research, becoming an outstanding talent proficient in both mathematics and programming across interdisciplinary fields. 
@@ -28,16 +39,6 @@ Please feel free to email me to discuss potential research collaborations.(**106
 - **August 2022 - November 2022 :** Interned in the Retail Research Department at Nielsen Market Research, Shanghai.
 - **September 2020 :** Enrolled in Beijing Normal University, the top-ranked normal university in China.
 
-## Category: Math Modeling
-
-| Title | Time |
-|---------|---------|
-| [<u>1. Classification Model of Glass Artuifacts Based on Elemental Weathering Rules</u>](https://yiyiyuan0225.github.io/blogs/m1/) | September 18,2022 |
-| [<u>2. Using Variable Coefficient Model to Estimated Sailing Price</u>](https://yiyiyuan0225.github.io/blogs/m2/) | April 3,2023 |
-| [<u>3. A study on Wordle-based Analysis</u>](https://yiyiyuan0225.github.io/blogs/m3/) | February 21, 2022 |
-| [<u>4. Site Selection Problem Based on Greedy Algorithm</u>](https://yiyiyuan0225.github.io/blogs/m4/) | June 6, 2022 |
-
-You can go to the presentation page of each of my projects by **clicking** on the title.
 
 ## Awards & Honors
 
