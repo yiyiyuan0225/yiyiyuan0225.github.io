@@ -9,6 +9,8 @@ title: Publications
 Lastest Update: 25th Oct 2023.
 
 ## Conference Paper
+- [Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e)
+<br>**Songning Lai**, Lijie Hu, Junxiao Wang, Laure Berti and Di Wang<br> **ICLR2024**
 
 - (Oral & **Best Paper Award**)[Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
 <br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex丨Tsinghua B**}
@@ -36,8 +38,6 @@ Lastest Update: 25th Oct 2023.
 - Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [[pdf]](https://arxiv.org/pdf/2305.08473.pdf) <br>**Songning Lai**, Xifeng Hu, Yulong Li, Zhaoxia Ren, Zhi Liu and Danmin Miao<br>
 **Under review** in COLING2024 (**CCF B**).
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
-- Faithful Vision-Language Interpretation via Concept Bottleneck Models. <br>**Songning Lai**, Lijie Hu, Junxiao Wang, Laure Berti and Di Wang<br>
-**Under review** in ICLR2024. (5 5 6 8, now in double review)
 - SEM: A Self-Explanatory Multimodal Framework based on Concept Reasoning. <br>**Songning Lai**, Lijie Hu, Xihai Wang, Junxiao Wang, Chenglong Wang, Laure Berti and Di Wang<br>
 **Under review** in CVPR2024 (**CCF A**).
 - A Comprehensive Review ofCommunity Detection in Graphs. <br>**Songning Lai**, Jiakang Li and Yonggang Lu<br>
