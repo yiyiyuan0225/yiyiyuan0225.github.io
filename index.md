@@ -25,14 +25,18 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 **Please feel free to email me to discuss potential research collaborations.(sonly@mail.sdu.edu.cn)**
 
+<span style="color:red"> **Pinned** </span> \\
+**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**
+
 ## News and Update
 
-- **NoV 2023 :** I have received the official admission offer from KAUST by email！
-- **Oct 2023 :** A work was accepted by the journal Displays (JCR Q1).
-- **Oct 2023 :** A work was accepted by the journal Image and Vison Computing (JCR Q1).
-- **Apr 2023 :** Start my research intern at **KAUST**.
+- **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- **NoV 2023 :** I have received the official admission offer from [KAUST](https://www.kaust.edu.sa/) by email！
+- **Oct 2023 :** A work was accepted by the journal [Displays](https://www.sciencedirect.com/journal/displays) (JCR Q1).
+- **Oct 2023 :** A work was accepted by the journal [Image and Vison Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1).
+- **Apr 2023 :** Start my research intern at [KAUST](https://www.kaust.edu.sa/).
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
-- **Nov 2022 :** I am very glad to give an **oral** report at the international conference CISP-BMEI 2022 and win the **Best Paper Award**.
+- **Nov 2022 :** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"
