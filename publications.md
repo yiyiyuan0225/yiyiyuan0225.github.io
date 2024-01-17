@@ -15,9 +15,6 @@ Lastest Update: 25th Oct 2023.
 - (Oral & **Best Paper Award**)[Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
 <br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu and Lan Ye<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex丨Tsinghua B**}
 
-- [Classifying Crime Types using Judgment Documents from Social Media](file/ljq.pdf)
-<br>Haoxuan Xu, Zeyu He, Mengfan Shen, **Songning Lai**, Ziqiang Han and Yifan Peng<br> 2023 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT 2023). [[pdf]](file/ljq.pdf).--{**IEEE Xplore丨EI Compendex**}
-
 ## Journal
 
 - Multimodal Sentiment Analysis: A Survey. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0141938223001968) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren and Zhi Liu<br>
