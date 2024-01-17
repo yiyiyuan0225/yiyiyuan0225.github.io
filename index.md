@@ -25,7 +25,7 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 **Please feel free to email me to discuss potential research collaborations.(sonly@mail.sdu.edu.cn)**
 
-<span style="color:red"> **Pinned** </span> \\
+<span style="color:red"> **Pinned** 
 
 **PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**
 
