@@ -46,6 +46,10 @@ Lastest Update: 25th Oct 2023.
 ## Working Paper
 
 - A lot of working papers, I want to be a **Curling King**!!!
+- One work for medical image by interpretable model framework which will be submitted to ICML2024.
+- The second work for medical image by interpretable model framework which will be submitted to ICML2024.
+- One work about explainable graph multimodal which will be submitted to ICML2024(I'm not the main person in charge, so I'm not the first author or co-first author).
+- One work about multimodel backdoor defense which will be submitted to MM2024(may be).
 
 
 
