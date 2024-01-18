@@ -4,13 +4,33 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
+## <a href="{{ site.url }}/feed.xml">My Friends</a>
+
+[Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
+
+[Shaopeng Fu](https://shaopengfu.me/)
+
+[Hanlin Cai](https://caihanlin.com/)
+
+[Weilin Ruan](https://rwlinno.github.io/)
+
+[Zhiyuan Zou](https://yiyiyuan0225.github.io/)
+
+[LUYANGYU TONG](https://supergrapee.github.io/)
+
+
+
+
 ## <a href="{{ site.url }}/feed.xml">My Blogs</a>
 
+### 2024.1.17
+爽了，ICLR中了，人生中第一篇顶会
 
-工作博客
-- [2023.11.20/21](https://xll0328.github.io/blogs/2023.11.20,21)<br>
-- [2023.11.22/23](https://xll0328.github.io/blogs/2023.11.22,23)<br>
-- [2023.11.23/24](https://xll0328.github.io/blogs/2023.11.23,24)<br>
+### 2024.1.10
+赚钱+ICML2024*3+CCS
+
+### 2023.11.30
+单身五年换我ICLR2024必中
 
 ### 2023.11.01
 我想躺平
@@ -154,3 +174,7 @@ All in 沙子国成功！
 阶砖不会拒绝磨损，窗花不可幽禁落霞。
 
  
+工作博客
+- [2023.11.20/21](https://xll0328.github.io/blogs/2023.11.20,21)<br>
+- [2023.11.22/23](https://xll0328.github.io/blogs/2023.11.22,23)<br>
+- [2023.11.23/24](https://xll0328.github.io/blogs/2023.11.23,24)<br>
