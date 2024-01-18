@@ -6,6 +6,8 @@ title: Blogs
 
 ## <a href="{{ site.url }}/feed.xml">My Friends</a>
 
+[Xinmin Li](https://safori.github.io/Lixinming.github.io/)
+
 [Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
 
 [Shaopeng Fu](https://shaopengfu.me/)
