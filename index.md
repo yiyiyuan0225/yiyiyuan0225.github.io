@@ -6,7 +6,6 @@ layout: page
 <!-- 
 <img src="./songninglai.png" class="floatpic" width="360" height="574"> -->
 
-
 <img src="./zzz.jpg" class="floatpic" width="345" height="450">
 
 # About Me
@@ -39,5 +38,6 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 <img src="https://www.easycounter.com/counter.php?sony0328"
 border="0" alt="Web Site Hit Counters"></a>
 <br><a href="https://www.easycounter.com/">Hit Counters  since Oct 2023</a>
+
 
 
