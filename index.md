@@ -25,10 +25,6 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 **Please feel free to email me to discuss potential research collaborations.(sonly@mail.sdu.edu.cn)**
 
-<span style="color:red"> **Pinned** 
-
-**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**
-
 ## News and Update
 
 - **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
