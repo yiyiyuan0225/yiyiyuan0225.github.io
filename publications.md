@@ -8,21 +8,21 @@ title: Publications
 
 Lastest Update: 25th Feb 2024.
 
-(**~** equal contribution, **†** corresponding author,)
+(**~** equal contribution, **~~** corresponding author,)
 
 ## Conference Paper
 - [Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e)
-<br>**Songning Lai~**, Lijie Hu~†, Junxiao Wang, Laure Berti and Di Wang†<br> **ICLR2024**
+<br>**Songning Lai†**, Lijie Hu~†, Junxiao Wang, Laure Berti and Di Wang~<br> **ICLR2024**
 
 - (Oral & **Best Paper Award**)[Predicting Lysine Phosphoglycerylation Sites using Bidirectional Encoder Representations with Transformers & Protein Feature Extraction and Selection](https://ieeexplore.ieee.org/abstract/document/9979871/)
-<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu† and Lan Ye†<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex丨Tsinghua B**}
+<br>**Songning Lai**, Xifeng Hu, Jing Han, Chun Wang, Subhas Mukhopadhyay, Zhi Liu~ and Lan Ye~<br> 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979871).--{**IEEE Xplore丨EI Compendex丨Tsinghua B**}
 
 ## Journal
 
-- Multimodal Sentiment Analysis: A Survey. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0141938223001968) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren† and Zhi Liu†<br>
+- Multimodal Sentiment Analysis: A Survey. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0141938223001968) <br>**Songning Lai**, Haoxuan Xu, Xifeng Hu, Zhaoxia Ren~ and Zhi Liu~<br>
 **Accepted** in the journal Displays(**JCR Q1(IF:4.3)**).
 
-- Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu~*, **Songning Lai~** and Yang Yang†<br>
+- Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu†, **Songning Lai†** and Yang Yang~<br>
 **Accepted** in the journal Image and Vision Computing (**JCR Q1(IF:4.7) CCF C**).
 
   
@@ -32,20 +32,20 @@ Lastest Update: 25th Feb 2024.
 ## Under Review Paper
 
 - BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [[pdf]](https://assets.researchsquare.com/files/rs-2858313/v1_covered_07d0e57c-bbc3-4bca-9e12-eb9ff6192f04.pdf?c=1683001221
-) <br>**Songning Lai**, Yankun Cao, Pengwei Wang†, Lan Ye† and Zhi Liu†<br>
+) <br>**Songning Lai**, Yankun Cao, Pengwei Wang~, Lan Ye~ and Zhi Liu~<br>
 **Major revison** in the journal BMC Bioinformatics(**JCR Q2 (IF:3.307), CCF C**).
-- Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [[pdf]](https://arxiv.org/pdf/2305.08473.pdf) <br>**Songning Lai~**, Jiakang Li~, Xifeng Hu, Yulong Li, Zhaoxia Ren†, Zhi Liu† and Danmin Miao†<br>
+- Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning. [[pdf]](https://arxiv.org/pdf/2305.08473.pdf) <br>**Songning Lai†**, Jiakang Li†, Xifeng Hu, Yulong Li, Zhaoxia Ren~, Zhi Liu~ and Danmin Miao~<br>
 **Under review** in IJCNN2024 (**CCF C**).
 - The invention patent is under examination： 一种赖氨酸磷酸甘油化位点识别方法及系统 
-- SEM: A Self-Explanatory Multimodal Framework based on Concept Reasoning. <br>**Songning Lai~**, Lijie Hu~†, Xinhai Wang, Junxiao Wang, Chenglong Wang, Laure Berti and Di Wang†<br>
+- SEM: A Self-Explanatory Multimodal Framework based on Concept Reasoning. <br>**Songning Lai†**, Lijie Hu~†, Xinhai Wang, Junxiao Wang, Chenglong Wang, Laure Berti and Di Wang~<br>
 **Under review** in ECCV2024 (**CCF B**).
-- A Comprehensive Review ofCommunity Detection in Graphs. <br>**Songning Lai**, Jiakang Li and Yonggang Lu†<br>
+- A Comprehensive Review ofCommunity Detection in Graphs. <br>**Songning Lai†**, Jiakang Li† and Yonggang Lu~<br>
 **Under review** in Neurocomputing (**JCR Q2 (IF:6.0), CCF C**).
-- Unfolding the Labels: Explaining Graph Classification with Language-augmented Graph Concept Bottleneck Model. <br>Lijie Hu~†, Huanyi Xie~, Lu Yu~, Tianhao Huang, **Songning Lai**, Meng Li, Longfei Li, JUN ZHOU, Di Wang† <br>
+- Unfolding the Labels: Explaining Graph Classification with Language-augmented Graph Concept Bottleneck Model. <br>Lijie Hu~†, Huanyi Xie†, Lu Yu†, Tianhao Huang, **Songning Lai**, Meng Li, Longfei Li, JUN ZHOU, Di Wang~ <br>
 **Under review** in ICML2024 (**CCFA**).
-- Interpretable Concept Neural-symbolic Model for Medical Classification. <br>Lijie Hu~, **Songning Lai~**, Wenshuo Chen~, Hongru Xiao, Lu Yu, Jingfeng Zhang, Di Wang†<br>
+- Interpretable Concept Neural-symbolic Model for Medical Classification. <br>Lijie Hu†, **Songning Lai†**, Wenshuo Chen†, Hongru Xiao, Lu Yu, Jingfeng Zhang, Di Wang~<br>
 **Under review** in ICML2024 (**CCFA**).
-- Faithful Vision Concept Transformer for Medical Diagnosis. <br>**Songning Lai~**, Lijie Hu~, Yuan Hua~, Jingfeng Zhang, Pan Zhou, Di Wang†<br>
+- Faithful Vision Concept Transformer for Medical Diagnosis. <br>**Songning Lai†**, Lijie Hu†, Yuan Hua†, Jingfeng Zhang, Pan Zhou, Di Wang~<br>
 
 ## Working Paper
 
