@@ -9,7 +9,7 @@ title: Publications
 Lastest Update: 25th Feb 2024.
 
 
-(**~** equal contribution, **~~** corresponding author,)
+(**†** equal contribution, **~** corresponding author,)
 
 
 ## Conference Paper
