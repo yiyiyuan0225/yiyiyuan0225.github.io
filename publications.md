@@ -8,7 +8,9 @@ title: Publications
 
 Lastest Update: 25th Feb 2024.
 
+
 (**~** equal contribution, **~~** corresponding author,)
+
 
 ## Conference Paper
 - [Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e)
@@ -46,7 +48,8 @@ Lastest Update: 25th Feb 2024.
 - Interpretable Concept Neural-symbolic Model for Medical Classification. <br>Lijie Hu†, **Songning Lai†**, Wenshuo Chen†, Hongru Xiao, Lu Yu, Jingfeng Zhang, Di Wang~<br>
 **Under review** in ICML2024 (**CCFA**).
 - Faithful Vision Concept Transformer for Medical Diagnosis. <br>**Songning Lai†**, Lijie Hu†, Yuan Hua†, Jingfeng Zhang, Pan Zhou, Di Wang~<br>
-
+**Under review** in ICML2024 (**CCFA**).
+  
 ## Working Paper
 
 - A lot of working papers, I want to be a **Curling King**!!!
