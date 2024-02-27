@@ -34,7 +34,7 @@ title: Awards
 
 ## Services
 
-- Reviewer:  European Conference on Artificial Intelligence(ECAI)
+- Reviewer:  ECAI, Expert Systems with Applications, IJCNN, ICML, KDD
 - Monitor of Chongxin College of Shandong University (The class was awarded as **Shandong Provincial Excellent Class** and **Shandong University Top Ten Class**)
 - Deputy Director of Student online Graphic Design Department of Shandong University
 - Head of Publicity Department of Beautiful China, Shandong University
