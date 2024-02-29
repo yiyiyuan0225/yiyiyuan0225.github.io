@@ -27,10 +27,10 @@ Lastest Update: 25th Feb 2024.
 - Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu†, **Songning Lai†** and Yang Yang~<br>
 **Accepted** in the journal Image and Vision Computing (**JCR Q1(IF:4.7) CCF C**).
 
-  
+<!-- ... -->
 
                                                                                 
-
+<!--
 ## Under Review Paper
 
 - BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites. [[pdf]](https://assets.researchsquare.com/files/rs-2858313/v1_covered_07d0e57c-bbc3-4bca-9e12-eb9ff6192f04.pdf?c=1683001221
@@ -59,6 +59,8 @@ Lastest Update: 25th Feb 2024.
 - One work about AI4Medical will be submitted.
 
 Please feel free to email me to discuss potential research collaborations.(**sonly@mail.sdu.edu.cn**)
+
+-->
 
 
 
