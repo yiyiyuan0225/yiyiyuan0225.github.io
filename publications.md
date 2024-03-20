@@ -32,6 +32,12 @@ Lastest Update: 25th Feb 2024.
 **Accepted** in the journal Image and Vision Computing (**JCR Q1(IF:4.7) CCF C**).
 
 
+## Under review paper
+- first or co-first author: ICML2024*2; ECCV*1; Neurocomputing*1; BMC bioinformatic*1
+- other author: ICML2024*1
+
+## Working paper
+- Some projects about XAI/LLM will be submitted to NIPS2024
 
 
 
@@ -45,6 +51,7 @@ Lastest Update: 25th Feb 2024.
 Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
 
 - XAI
+- LLM
 
 ## Shandong University Intelligent Medical Information Processing Research Center
 
@@ -53,7 +60,7 @@ Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/p
 Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
 
 - Bioinformatics
-- Multimodal sentiment analysis
+- Multimodal
 - 
 ## Shandong University Signal Processing and Artificial Intelligence Research Institute
 
@@ -71,6 +78,7 @@ Research Intern, Advisor: [Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/
 
 - Domain generalization
 - Computer Vison
+- OOD
 
 ## Human-Machine Intelligence System Research Center
 
