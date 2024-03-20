@@ -22,12 +22,15 @@ title: Awards
 - Second Prize in National Undergraduate Electronic Design Contest ( Shandong Province )
 - Second Prize in National Crypto-math Challenge Second (East China Competition)
 
+
 ### School award
 
 - More than **40** university-level awards, including academic competition, social practice, innovation and entrepreneurship, sports, aesthetic education, volunteer, scholarship and other aspects, are not displayed here.
 
 ### Others 
 
+- Outstanding graduates of Shandong Province
+- Outstanding graduate of Shandong University
 - IEEE/EI ( CISP-BMEI 2022) **Best Paper Award**
 - Computer software copyright first copyright owner
 - Computer software copyright third copyright owner
