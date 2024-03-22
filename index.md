@@ -43,6 +43,5 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 border="0" alt="Web Site Hit Counters"></a>
 <br><a href="https://www.easycounter.com/">Hit Counters  since Oct 2023</a>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5h6ndy6m0an&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
