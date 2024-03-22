@@ -14,9 +14,7 @@ layout: page
 
 Here is **Songning Lai (赖颂宁)**.( You can call me Sony. )
 
-I am a junior student studying in the School of Information Science and Engineering([**Chongxin College**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China,supervised by Prof. [**Zhi Liu**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm). I will join the Provable Responsible AI and Data Analytics ([**PRADA**](http://www.pradalab.org/)) Lab at the King Abdullah University of Science and Technology ([**KAUST**](https://www.kaust.edu.sa/)), advised by [Prof. **Di Wang**](https://shao3wangdi.github.io/), as a **MS/PhD** in **24fall**.
-
-<!-- I will join [**KAUST**](https://www.kaust.edu.sa/) in 2024fall to begin my phd career,and am very fortunate to be advised by Prof. [**Di Wang**](https://shao3wangdi.github.io/) in [**PRADA Lab**](http://www.pradalab.org/) (Provable Responsible AI and Data Analytics Lab).-->
+I am a junior student studying in the School of Information Science and Engineering([**Chongxin College**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Shandong University**](https://www.sdu.edu.cn/) in China,supervised by Prof. [**Zhi Liu**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm).
 
 ## Research Interests
 
@@ -31,10 +29,8 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 - **Mar 2024 :** Won the honor of **excellent graduate of Shandong Province** and the honor of **excellent graduate of Shandong University**.
 - **Mar 2024 :** Our paper on MSA was accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
 - **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [**ICLR 2024**](https://openreview.net/group?id=ICLR.cc/2024/Conference)(CCF None).
-- **NoV 2023 :** I have received the official admission offer from [**KAUST**](https://www.kaust.edu.sa/) by email！
 - **Oct 2023 :** A work was accepted by the journal [**Displays**](https://www.sciencedirect.com/journal/displays) (JCR Q1).
 - **Oct 2023 :** A work was accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
-- **Apr 2023 :** Start my research intern at [**KAUST**](https://www.kaust.edu.sa/).
 - **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
 
