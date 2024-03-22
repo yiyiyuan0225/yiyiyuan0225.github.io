@@ -33,11 +33,14 @@ Lastest Update: 25th Feb 2024.
 
 
 ## Under review paper
-- first or co-first author: ICML2024*2; ECCV*1; Neurocomputing*1; BMC bioinformatic*1
-- other author: ICML2024*1
+- first or co-first author: ICML2024 * 2 ; ECCV * 1; Neurocomputing * 1; BMC bioinformatic * 1
+- other author: ICML2024 * 1
 
 ## Working paper
-- Some projects about XAI/LLM will be submitted to NIPS2024
+- Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2024
+
+**If you want to collaborate on the project, please email me.**
+
 
 
 
