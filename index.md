@@ -50,7 +50,7 @@ Please feel free to email me to discuss potential research collaborations.(**106
 - Second-Class Jing Shi Scholarship for the Junior Year: 2023.
 - Third-Class Jing Shi Scholarship for the Sophomore Year: 2022.
 
-## [Graduation project](https://yiyiyuan0225.github.io/blogs/bs.md/)
+## [Graduation project](https://yiyiyuan0225.github.io/blogs/bs/)
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"
