@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/m1/index.html
-title: m1
+permalink: /blogs/bs/index.html
+title: bs
 ---
 
 
