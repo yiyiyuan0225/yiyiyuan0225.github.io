@@ -6,8 +6,6 @@ title: Publications
 
 # Publications
 
-Lastest Update: 25th Feb 2024.
-
 
 (**†** equal contribution, **~** corresponding author,)
 
@@ -36,7 +34,7 @@ Lastest Update: 25th Feb 2024.
 - other author: ICML2024 * 1
 
 ## Working paper
-- Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2024
+- Some projects about XAI/LLM/Safety will be submitted to NIPS2024/EMNLP2024/ICLR2025.
 
 **If you want to collaborate on the project, please email me.**
 
@@ -46,11 +44,17 @@ Lastest Update: 25th Feb 2024.
 
 #  RESEARCH EXPERIENCES
 
+## Deep Interdisciplinary Intelligence Lab
+
+2024.4 --- Present
+
+Research Assistant, Advisor: Prof: Yutao Yue  ----HKUST(GZ)@AI Thrust&INFO Hub
+
 ## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
 
-2023.4 --- Present
+2023.4 --- 2024.4
 
-Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
+Visiting Student and Research Intern, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
 
 - XAI
 - LLM
