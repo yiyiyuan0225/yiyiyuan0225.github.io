@@ -26,12 +26,12 @@ Prior to this, I have also been exposed to bioinformatics, multimodal sentiment 
 
 ## News and Update
 
-- **Mar 2024 :** Won the honor of **excellent graduate of Shandong Province** and the honor of **excellent graduate of Shandong University**.
+- **Mar 2024 :**  I am awarded the honor of **excellent graduate of Shandong Province** and **excellent graduate of Shandong University**.
 - **Mar 2024 :** Our paper on MSA was accepted by [**IJCNN2024**](https://www.google.com/search?q=ijcnn2024&oq=IJCNN&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIGCAAQRRg9MgYIARBFGDsyBggCECMYJzIGCAMQABgeMgYIBBBFGDsyBggFEAAYHjIGCAYQRRg9MgYIBxBFGDzSAQg0MzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)(CCF C).
 - **Jan 2024 :** Our paper on [faithful label free CBM](https://openreview.net/forum?id=rp0EdI8X4e) was accepted by [**ICLR 2024**](https://openreview.net/group?id=ICLR.cc/2024/Conference)(CCF None).
 - **Oct 2023 :** A work was accepted by the journal [**Displays**](https://www.sciencedirect.com/journal/displays) (JCR Q1).
 - **Oct 2023 :** A work was accepted by the journal [**Image and Vison Computing**](https://www.sciencedirect.com/journal/image-and-vision-computing) (JCR Q1; CCF C).
-- **Nov 2022 :** Happy to win the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
+- **Nov 2022 :** Happy to get the **First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling National (top 0.6%).
 - **Nov 2022 :** I am very glad to give an **oral** report at the international conference [CISP-BMEI](http://www.cisp-bmei.cn/) 2022 and win the **Best Paper Award**.
 
 <a href="https://www.easycounter.com/">
